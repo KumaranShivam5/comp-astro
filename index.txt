@@ -1,0 +1,33 @@
+tutorial_01 : 
+    radial plot
+    list sum
+tutorial_02:
+    polar plots
+
+tutorial_03:
+    Matrix multiplication
+
+tutorial_04:
+    lab3_1 : Julian day converter
+    lab3_2 : Cross Product
+    lab3_4 : Masked array
+    lab3_6 : Histogram
+    q_03 : Matrix multiplication
+    q_05 : Data read line by line and plot
+
+tutorial_05 :
+    nucl.py : binding energy plots , (used decoding of strings)
+    nucl_v2.py : Finding maximum binding energy (some ultra cool list loop)
+    trial.py : checking np.where
+
+tutorial_06 : 
+    root_methods.py  : newton and bisection roots 
+
+tutorial_07 : interpolation 
+
+tutorial_08 : Linear value and gaussian elimination
+
+tutorial_09 :spline application
+
+tutorial_10 : Numerical INtegration
+
